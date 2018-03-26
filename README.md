@@ -13,6 +13,8 @@
 I used [this article](http://www.technoblogy.com/show?LE0) for technical inspiration. 
 Basically Attiny85 has 2 timers, providing 2 pwms each. Unfortunately pins for those pwms overlapping, so getting 4-th pwm is tricky. But 3 is enough for me, so that works quite ok.
 
+I used smd led for this one (KY-009 module), but actually it is not brilliant, it is not very powerfull and colors are not very bright. 
+
 ![pcb front](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/2018-03-21-14.08.59.jpg)
 ![pcb back](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/2018-03-21-14.08.45.jpg)
 
@@ -26,7 +28,7 @@ I decided to assemble version that is possible to switch on and off remotely usi
 
 ![pcb front](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/2018-03-20-21.13.16.jpg)
 ![pcb back](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/2018-03-20-21.13.37.jpg)
-![panda lamp](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/2018-03-20-21.35.14.jpg.jpg)
+![panda lamp](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/2018-03-20-21.35.14.jpg)
 ![led inplace](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/2018-03-20-21.14.21.jpg)
 
 
@@ -55,4 +57,4 @@ I decided to assemble version that is possible to switch on and off remotely usi
 
 Video is demonstrating color changes as well as remote control being tested
 
-[![Watch the video](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/youtube-screen.png)](https://youtu.be/MXWmvgHrwHE)
+[Watch the video at Youtube](https://youtu.be/MXWmvgHrwHE)
