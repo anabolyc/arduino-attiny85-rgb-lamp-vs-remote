@@ -34,6 +34,9 @@ I decided to assemble version that is possible to switch on and off remotely usi
 
 ## Remote control unit
 
+I used capacitive sensor library, which turns any 2 pins into touch sensing button. So my button is just piese of aluminium foil covered by plastic tape. From my experience it works perfect!
+
+![button](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/2018-03-27-19.15.31.jpg)
 ![pcb front](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/2018-03-26-18.45.56.jpg)
 ![pcb back](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/2018-03-26-18.46.20.jpg)
 
