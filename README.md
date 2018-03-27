@@ -61,3 +61,4 @@ I used capacitive sensor library, which turns any 2 pins into touch sensing butt
 Video is demonstrating color changes as well as remote control being tested
 
 [Watch the video at Youtube](https://youtu.be/MXWmvgHrwHE)
+![youtube](https://raw.githubusercontent.com/anabolyc/arduino-attiny85-rgb-lamp-vs-remote/master/images/youtube-screen.png)
